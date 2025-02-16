@@ -44,3 +44,5 @@ const parsedObject = JSON.parse(jsonString);
 console.log(parsedObject.name); // Output: "John Doe"
 console.log(parsedObject.hobbies); // Output: ["Reading", "Running", "Cooking"]
 // -----------------------
+
+
